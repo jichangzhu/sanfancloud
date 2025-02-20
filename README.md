@@ -11,22 +11,23 @@
 
 ## 三番云加速器优惠套餐
 
-| 三番云加速器 | 付款周期 | 价格 | 每月流量 | 同时在线数量 |
-| --- | --- | --- | --- | --- |
-| Mini 微量计划 | 按月付 | 15.90 | 50 GB | 无限制 |
-| Lite 轻量计划 | 按月付 | 19.90 | 150 GB | 无限制 |
-| Stand 标准计划 | 按月付 | 29.90 | 200 GB | 无限制 |
-| Pro 深度计划 | 按月付 | 49.90 | 500 GB | 无限制 |
-| Plus 超级计划 | 按月付 | 100.00 | 1000 GB | 无限制 |
+| 三番云  | 付款周期 | 价格     | 每月流量     | 同时在线数量 |
+|------|------|--------|----------|--------|
+| 筑基期  | 按月付  | 15.90  | 100 GB   | 无限制    |
+| 元婴期  | 按月付  | 26.90  | 200 GB   | 无限制    |
+| 化神期  | 按月付  | 36.90  | 300 GB   | 无限制    |
+| 炼虚期  | 按月付  | 50.90  | 600 GB   | 无限制    |
+| 大乘期  | 按月付  | 96.90  | 1200 GB  | 无限制    |
+| 陆地神仙 | 按月付  | 500.00 | 10000 GB | 无限制    |
 
 ## 三番云加速器机场测速
 
-![sanfancloud-SpeedTest-ZSDX-20240705](https://github.com/jichangzhu/sanfancloud/assets/152512496/157e540b-c86d-47f3-a533-e034bc8777c4)
+![sanfancloud-SpeedTest](https://github.com/user-attachments/assets/1aad7b6e-53b2-4c2f-b53b-8a45f62844a4)
 
 
 ## 三番云加速器出入口分析
 
-![sanfancloud-Network-Topology-ZSDX-20240705](https://github.com/jichangzhu/sanfancloud/assets/152512496/6b191744-7c8d-4c67-b4dc-69d879de849b)
+![sanfancloud-Network-Topology](https://github.com/user-attachments/assets/1415e56d-a874-4d72-afb0-a313985026c7)
 
 
 ## 三番云加速器跑路
